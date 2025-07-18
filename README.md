@@ -2,7 +2,7 @@
 
 A hand-crafted 32-bit kernel built in C and NASM, bootstrapped via GRUB with full multiboot compliance. Prints `"Hello from Kernel!"` using direct video memory access.
 
-> 🛠 Designed and built by [Rasindu](https://github.com/rasindu-dev) as part of an operating system development journey.
+> 🛠 Designed and built by [Rasindu](https://github.com/RCHKaushalya) as part of an operating system development journey.
 
 ---
 
