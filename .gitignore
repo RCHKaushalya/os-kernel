@@ -1,0 +1,6 @@
+# Kernel Build Artifacts
+*.o
+*.elf
+*.iso
+/build/
+/iso/
